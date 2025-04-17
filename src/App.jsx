@@ -762,6 +762,11 @@ function App() {
           </div>
         </div>
       </section>
+      <footer className="bg-gray-900 text-white py-8 px-4">
+        <a href="https://lodgic-dev.com" target="_blank">
+          Développé par Lodgic
+        </a>
+      </footer>
     </div>
   )
 }
